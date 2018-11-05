@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.card {
+  border: solid;
+  margin: 10px;
+  padding: 10px;
+}
+
+.navbar {
+}
+
+.navbar li {
+  display: inline-flex;
+  padding: 25px;
+}
